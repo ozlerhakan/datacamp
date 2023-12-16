@@ -1,0 +1,1431 @@
+country,food_category,consumption,co2_emission                         
+Argentina,pork,10.51,37.2                                              
+Argentina,poultry,38.660000000000004,41.53                             
+Argentina,beef,55.48,1712                                              
+Argentina,lamb_goat,1.56,54.63                                         
+Argentina,fish,4.359999999999999,6.96                                  
+Argentina,eggs,11.39,10.46                                             
+Argentina,dairy,195.08,277.87                                          
+Argentina,wheat,103.11,19.66                                           
+Argentina,rice,8.77,11.219999999999999                                 
+Argentina,soybeans,0,0                                                 
+Argentina,nuts,0.49,0.8700000000000001                                 
+Australia,pork,24.14,85.44000000000001                                 
+Australia,poultry,46.120000000000005,49.54                             
+Australia,beef,33.86,1044.85                                           
+Australia,lamb_goat,9.870000000000001,345.65000000000003               
+Australia,fish,17.69,28.25                                             
+Australia,eggs,8.51,7.819999999999999                                  
+Australia,dairy,234.49,334.01                                          
+Australia,wheat,70.46000000000001,13.44                                
+Australia,rice,11.03,14.12                                             
+Australia,soybeans,0.19,0.09                                           
+Australia,nuts,8.729999999999999,15.450000000000001                    
+Albania,pork,10.88,38.51                                               
+Albania,poultry,13.229999999999999,14.209999999999999                  
+Albania,beef,22.5,694.3                                                
+Albania,lamb_goat,15.32,536.5                                          
+Albania,fish,3.8499999999999996,6.1499999999999995                     
+Albania,eggs,12.450000000000001,11.44                                  
+Albania,dairy,303.71999999999997,432.62                                
+Albania,wheat,138.64,26.439999999999998                                
+Albania,rice,7.78,9.96                                                 
+Albania,soybeans,0,0                                                   
+Albania,nuts,4.359999999999999,7.72                                    
+Iceland,pork,21.69,76.77                                               
+Iceland,poultry,26.87,28.86                                            
+Iceland,beef,13.360000000000001,412.26                                 
+Iceland,lamb_goat,21.12,739.62                                         
+Iceland,fish,74.41000000000001,118.81                                  
+Iceland,eggs,8.239999999999998,7.57                                    
+Iceland,dairy,225.82000000000002,321.66                                
+Iceland,wheat,72.92,13.91                                              
+Iceland,rice,3.8899999999999997,4.98                                   
+Iceland,soybeans,0.11,0.05                                             
+Iceland,nuts,3.88,6.87                                                 
+New Zealand,pork,22.29,78.9                                            
+New Zealand,poultry,34.98,37.58                                        
+New Zealand,beef,22.49,693.99                                          
+New Zealand,lamb_goat,18.91,662.23                                     
+New Zealand,fish,20.36,32.51                                           
+New Zealand,eggs,9.91,9.1                                              
+New Zealand,dairy,137.25,195.5                                         
+New Zealand,wheat,76.91000000000001,14.67                              
+New Zealand,rice,9.16,11.719999999999999                               
+New Zealand,soybeans,0.44,0.2                                          
+New Zealand,nuts,8.219999999999999,14.55                               
+USA,pork,27.64,97.83                                                   
+USA,poultry,50.01,53.720000000000006                                   
+USA,beef,36.24,1118.29                                                 
+USA,lamb_goat,0.43000000000000005,15.06                                
+USA,fish,12.350000000000001,19.72                                      
+USA,eggs,14.58,13.39                                                   
+USA,dairy,254.69,362.78                                                
+USA,wheat,80.43,15.34                                                  
+USA,rice,6.88,8.8                                                      
+USA,soybeans,0.04,0.02                                                 
+USA,nuts,7.859999999999999,13.91                                       
+Uruguay,pork,16.84,59.61                                               
+Uruguay,poultry,27.45,29.49                                            
+Uruguay,beef,29.1,897.9599999999999                                    
+Uruguay,lamb_goat,8.229999999999999,288.21                             
+Uruguay,fish,6.53,10.43                                                
+Uruguay,eggs,13.139999999999999,12.07                                  
+Uruguay,dairy,210.54,299.89                                            
+Uruguay,wheat,109.31,20.85                                             
+Uruguay,rice,11.5,14.719999999999999                                   
+Uruguay,soybeans,0.01,0                                                
+Uruguay,nuts,0.9500000000000001,1.6800000000000002                     
+Luxembourg,pork,43.58,154.25                                           
+Luxembourg,poultry,21.37,22.959999999999997                            
+Luxembourg,beef,29.88,922.03                                           
+Luxembourg,lamb_goat,1.6700000000000002,58.48                          
+Luxembourg,fish,23.09,36.87                                            
+Luxembourg,eggs,14.639999999999999,13.450000000000001                  
+Luxembourg,dairy,255.3,363.65000000000003                              
+Luxembourg,wheat,103.2,19.68                                           
+Luxembourg,rice,4.2,5.37                                               
+Luxembourg,soybeans,0.04,0.02                                          
+Luxembourg,nuts,0.93,1.6500000000000001                                
+Brazil,pork,12.6,44.6                                                  
+Brazil,poultry,45,48.339999999999996                                   
+Brazil,beef,39.25,1211.1699999999998                                   
+Brazil,lamb_goat,0.62,21.71                                            
+Brazil,fish,10.01,15.98                                                
+Brazil,eggs,8.98,8.25                                                  
+Brazil,dairy,149.28,212.63                                             
+Brazil,wheat,53,10.11                                                  
+Brazil,rice,32.13,41.120000000000005                                   
+Brazil,soybeans,3.62,1.6300000000000001                                
+Brazil,nuts,0.6699999999999999,1.1900000000000002                      
+Kazakhstan,pork,10.360000000000001,36.67                               
+Kazakhstan,poultry,18.38,19.74                                         
+Kazakhstan,beef,23.38,721.4599999999999                                
+Kazakhstan,lamb_goat,9.56,334.78999999999996                           
+Kazakhstan,fish,5.21,8.32                                              
+Kazakhstan,eggs,8.29,7.619999999999999                                 
+Kazakhstan,dairy,288.12,410.4                                          
+Kazakhstan,wheat,92.31,17.6                                            
+Kazakhstan,rice,7.319999999999999,9.370000000000001                    
+Kazakhstan,soybeans,0.03,0.01                                          
+Kazakhstan,nuts,5.14,9.1                                               
+Sweden,pork,37,130.96                                                  
+Sweden,poultry,16.64,17.87                                             
+Sweden,beef,24.58,758.49                                               
+Sweden,lamb_goat,1.41,49.379999999999995                               
+Sweden,fish,23.86,38.1                                                 
+Sweden,eggs,13.370000000000001,12.28                                   
+Sweden,dairy,341.22999999999996,486.05                                 
+Sweden,wheat,79.59,15.18                                               
+Sweden,rice,5.96,7.63                                                  
+Sweden,soybeans,0.13,0.06                                              
+Sweden,nuts,6.23,11.03                                                 
+Bermuda,pork,28.24,99.96000000000001                                   
+Bermuda,poultry,32.620000000000005,35.04                               
+Bermuda,beef,33.15,1022.9399999999999                                  
+Bermuda,lamb_goat,2.71,94.9                                            
+Bermuda,fish,33.220000000000006,53.04                                  
+Bermuda,eggs,14.92,13.709999999999999                                  
+Bermuda,dairy,95.56,136.12                                             
+Bermuda,wheat,54.879999999999995,10.47                                 
+Bermuda,rice,5.38,6.88                                                 
+Bermuda,soybeans,0.22,0.1                                              
+Bermuda,nuts,5.72,10.12                                                
+Denmark,pork,24.87,88.03                                               
+Denmark,poultry,26.75,28.73                                            
+Denmark,beef,28.459999999999997,878.22                                 
+Denmark,lamb_goat,0.92,32.220000000000006                              
+Denmark,fish,16.49,26.330000000000002                                  
+Denmark,eggs,15.350000000000001,14.1                                   
+Denmark,dairy,277.3,394.98999999999995                                 
+Denmark,wheat,98,18.69                                                 
+Denmark,rice,4.96,6.35                                                 
+Denmark,soybeans,0.03,0.01                                             
+Denmark,nuts,5.94,10.51                                                
+Finland,pork,36.14,127.92                                              
+Finland,poultry,19.87,21.34                                            
+Finland,beef,19.22,593.09                                              
+Finland,lamb_goat,0.53,18.56                                           
+Finland,fish,33.8,53.97                                                
+Finland,eggs,9.55,8.77                                                 
+Finland,dairy,430.76,613.57                                            
+Finland,wheat,81.99000000000001,15.639999999999999                     
+Finland,rice,4.42,5.659999999999999                                    
+Finland,soybeans,0.08,0.04                                             
+Finland,nuts,3.4299999999999997,6.07                                   
+Ireland,pork,32.4,114.67999999999999                                   
+Ireland,poultry,26.259999999999998,28.21                               
+Ireland,beef,22.35,689.6700000000001                                   
+Ireland,lamb_goat,4.1,143.58                                           
+Ireland,fish,17.39,27.77                                               
+Ireland,eggs,8.96,8.229999999999999                                    
+Ireland,dairy,291.86,415.72999999999996                                
+Ireland,wheat,107.98,20.59                                             
+Ireland,rice,3,3.84                                                    
+Ireland,soybeans,0.25,0.11                                             
+Ireland,nuts,4.1,7.26                                                  
+Greece,pork,28.310000000000002,100.2                                   
+Greece,poultry,15.739999999999998,16.91                                
+Greece,beef,16.1,496.81                                                
+Greece,lamb_goat,12.47,436.7                                           
+Greece,fish,14.42,23.02                                                
+Greece,eggs,10.129999999999999,9.31                                    
+Greece,dairy,255.26,363.59                                             
+Greece,wheat,124.04,23.650000000000002                                 
+Greece,rice,6.64,8.5                                                   
+Greece,soybeans,0.02,0.01                                              
+Greece,nuts,10.5,18.59                                                 
+France,pork,33.05,116.98                                               
+France,poultry,22.93,24.630000000000003                                
+France,beef,23.810000000000002,734.73                                  
+France,lamb_goat,3.2800000000000002,114.86999999999999                 
+France,fish,22.91,36.58                                                
+France,eggs,13.129999999999999,12.06                                   
+France,dairy,241.31,343.71999999999997                                 
+France,wheat,108.43,20.68                                              
+France,rice,4.88,6.24                                                  
+France,soybeans,0.05,0.02                                              
+France,nuts,5.39,9.54                                                  
+Canada,pork,22.810000000000002,80.74000000000001                       
+Canada,poultry,36.68,39.4                                              
+Canada,beef,30.25,933.4499999999999                                    
+Canada,lamb_goat,0.97,33.97                                            
+Canada,fish,14.56,23.25                                                
+Canada,eggs,12.950000000000001,11.9                                    
+Canada,dairy,187.76999999999998,267.46                                 
+Canada,wheat,84.96000000000001,16.2                                    
+Canada,rice,12.65,16.19                                                
+Canada,soybeans,0.9400000000000001,0.42000000000000004                 
+Canada,nuts,8.01,14.18                                                 
+Norway,pork,23.51,83.21000000000001                                    
+Norway,poultry,21.01,22.57                                             
+Norway,beef,19.830000000000002,611.91                                  
+Norway,lamb_goat,5.34,187.01                                           
+Norway,fish,38.18,60.96                                                
+Norway,eggs,11.41,10.48                                                
+Norway,dairy,261.34000000000003,372.25                                 
+Norway,wheat,97.11999999999999,18.52                                   
+Norway,rice,4.359999999999999,5.58                                     
+Norway,soybeans,0.11,0.05                                              
+Norway,nuts,5.28,9.350000000000001                                     
+Hong Kong SAR. China,pork,67.11,237.54                                 
+Hong Kong SAR. China,poultry,54.86,58.93                               
+Hong Kong SAR. China,beef,25.82,796.75                                 
+Hong Kong SAR. China,lamb_goat,2.22,77.74000000000001                  
+Hong Kong SAR. China,fish,42.44,67.76                                  
+Hong Kong SAR. China,eggs,14.5,13.32                                   
+Hong Kong SAR. China,dairy,105.85,150.76999999999998                   
+Hong Kong SAR. China,wheat,53.14,10.129999999999999                    
+Hong Kong SAR. China,rice,43.48,55.64                                  
+Hong Kong SAR. China,soybeans,2.79,1.26                                
+Hong Kong SAR. China,nuts,13.81,24.439999999999998                     
+French Polynesia,pork,14.75,52.21                                      
+French Polynesia,poultry,49.55,53.230000000000004                      
+French Polynesia,beef,30.9,953.51                                      
+French Polynesia,lamb_goat,2.8299999999999996,99.11                    
+French Polynesia,fish,38.949999999999996,62.190000000000005            
+French Polynesia,eggs,8.75,8.04                                        
+French Polynesia,dairy,93.56,133.26999999999998                        
+French Polynesia,wheat,68.66999999999999,13.1                          
+French Polynesia,rice,35.59,45.54                                      
+French Polynesia,soybeans,0.77,0.35                                    
+French Polynesia,nuts,2.34,4.14                                        
+Israel,pork,1.99,7.04                                                  
+Israel,poultry,62.5,67.14                                              
+Israel,beef,28.779999999999998,888.09                                  
+Israel,lamb_goat,1.87,65.49000000000001                                
+Israel,fish,22.18,35.41                                                
+Israel,eggs,11.350000000000001,10.43                                   
+Israel,dairy,193.6,275.76                                              
+Israel,wheat,110.86,21.14                                              
+Israel,rice,16.810000000000002,21.51                                   
+Israel,soybeans,0.1,0.05                                               
+Israel,nuts,7.71,13.65                                                 
+Switzerland,pork,31.49,111.46000000000001                              
+Switzerland,poultry,16.38,17.6                                         
+Switzerland,beef,21.259999999999998,656.04                             
+Switzerland,lamb_goat,1.42,49.730000000000004                          
+Switzerland,fish,13.48,21.52                                           
+Switzerland,eggs,10.53,9.67                                            
+Switzerland,dairy,318.69,453.94                                        
+Switzerland,wheat,89.51,17.07                                          
+Switzerland,rice,2.4299999999999997,3.11                               
+Switzerland,soybeans,0.44,0.2                                          
+Switzerland,nuts,9.27,16.41                                            
+Netherlands,pork,36.36,128.7                                           
+Netherlands,poultry,23.9,25.67                                         
+Netherlands,beef,17.67,545.26                                          
+Netherlands,lamb_goat,0.9400000000000001,32.92                         
+Netherlands,fish,18.64,29.759999999999998                              
+Netherlands,eggs,14.03,12.89                                           
+Netherlands,dairy,341.46999999999997,486.39                            
+Netherlands,wheat,70.16999999999999,13.38                              
+Netherlands,rice,2.9299999999999997,3.75                               
+Netherlands,soybeans,0.12000000000000001,0.05                          
+Netherlands,nuts,7.94,14.05                                            
+Kuwait,pork,0,0                                                        
+Kuwait,poultry,53.61,57.59                                             
+Kuwait,beef,13.03,402.08                                               
+Kuwait,lamb_goat,15.61,546.66                                          
+Kuwait,fish,11.99,19.14                                                
+Kuwait,eggs,12.6,11.57                                                 
+Kuwait,dairy,157.66,224.57                                             
+Kuwait,wheat,96.76,18.45                                               
+Kuwait,rice,43.83,56.09                                                
+Kuwait,soybeans,0.06,0.03                                              
+Kuwait,nuts,5.23,9.26                                                  
+United Kingdom,pork,25.79,91.28                                        
+United Kingdom,poultry,31.55,33.89                                     
+United Kingdom,beef,18.12,559.15                                       
+United Kingdom,lamb_goat,4.49,157.23999999999998                       
+United Kingdom,fish,15.49,24.73                                        
+United Kingdom,eggs,11.08,10.18                                        
+United Kingdom,dairy,232.2,330.75                                      
+United Kingdom,wheat,98.63,18.810000000000002                          
+United Kingdom,rice,6.39,8.18                                          
+United Kingdom,soybeans,0.05,0.02                                      
+United Kingdom,nuts,4.18,7.4                                           
+Austria,pork,52.56,186.04                                              
+Austria,poultry,18.610000000000003,19.99                               
+Austria,beef,17.14,528.9                                               
+Austria,lamb_goat,1.1600000000000001,40.620000000000005                
+Austria,fish,12.16,19.419999999999998                                  
+Austria,eggs,14.68,13.49                                               
+Austria,dairy,258.09,367.62                                            
+Austria,wheat,81.1,15.47                                               
+Austria,rice,3.7,4.73                                                  
+Austria,soybeans,2.06,0.93                                             
+Austria,nuts,7.88,13.950000000000001                                   
+Oman,pork,0.01,0.04                                                    
+Oman,poultry,31.51,33.849999999999994                                  
+Oman,beef,15.1,465.95                                                  
+Oman,lamb_goat,12.870000000000001,450.71                               
+Oman,fish,21.56,34.42                                                  
+Oman,eggs,7.8,7.17                                                     
+Oman,dairy,152.28,216.91                                               
+Oman,wheat,64.1,12.219999999999999                                     
+Oman,rice,56.55,72.36999999999999                                      
+Oman,soybeans,0.21000000000000002,0.09                                 
+Oman,nuts,1.6800000000000002,2.9699999999999998                        
+Italy,pork,40.28,142.57                                                
+Italy,poultry,18.610000000000003,19.99                                 
+Italy,beef,18.6,573.9599999999999                                      
+Italy,lamb_goat,0.92,32.220000000000006                                
+Italy,fish,15.6,24.91                                                  
+Italy,eggs,13.34,12.25                                                 
+Italy,dairy,246.88000000000002,351.66                                  
+Italy,wheat,146.37,27.91                                               
+Italy,rice,5.74,7.35                                                   
+Italy,soybeans,0.01,0                                                  
+Italy,nuts,7.63,13.51                                                  
+Bahamas,pork,32.74,115.88                                              
+Bahamas,poultry,45.74,49.13                                            
+Bahamas,beef,19.919999999999998,614.69                                 
+Bahamas,lamb_goat,5.22,182.8                                           
+Bahamas,fish,18.8,30.02                                                
+Bahamas,eggs,6.2,5.7                                                   
+Bahamas,dairy,104.76,149.22                                            
+Bahamas,wheat,39.98,7.619999999999999                                  
+Bahamas,rice,23.97,30.67                                               
+Bahamas,soybeans,0.09,0.04                                             
+Bahamas,nuts,4.03,7.13                                                 
+Portugal,pork,37.91,134.18                                             
+Portugal,poultry,30.14,32.379999999999995                              
+Portugal,beef,16.45,507.61                                             
+Portugal,lamb_goat,2.38,83.35                                          
+Portugal,fish,45.39,72.47                                              
+Portugal,eggs,9.05,8.31                                                
+Portugal,dairy,205.04,292.06                                           
+Portugal,wheat,94.3,17.979999999999997                                 
+Portugal,rice,14.860000000000001,19.02                                 
+Portugal,soybeans,0.01,0                                               
+Portugal,nuts,3.9099999999999997,6.92                                  
+Malta,pork,34.24,121.19                                                
+Malta,poultry,26.4,28.36                                               
+Malta,beef,19.22,593.09                                                
+Malta,lamb_goat,1.1900000000000002,41.67                               
+Malta,fish,24.58,39.25                                                 
+Malta,eggs,11.639999999999999,10.69                                    
+Malta,dairy,190.06,270.71999999999997                                  
+Malta,wheat,139.58,26.62                                               
+Malta,rice,4.96,6.35                                                   
+Malta,soybeans,0.05,0.02                                               
+Malta,nuts,5.619999999999999,9.950000000000001                         
+Armenia,pork,9.67,34.230000000000004                                   
+Armenia,poultry,13.350000000000001,14.34                               
+Armenia,beef,19.66,606.6700000000001                                   
+Armenia,lamb_goat,3.02,105.76                                          
+Armenia,fish,4.359999999999999,6.96                                    
+Armenia,eggs,11.69,10.739999999999998                                  
+Armenia,dairy,209.03,297.74                                            
+Armenia,wheat,130.6,24.91                                              
+Armenia,rice,3.18,4.07                                                 
+Armenia,soybeans,0,0                                                   
+Armenia,nuts,2.55,4.51                                                 
+Slovenia,pork,28.19,99.78                                              
+Slovenia,poultry,23.459999999999997,25.2                               
+Slovenia,beef,18.43,568.71                                             
+Slovenia,lamb_goat,0.7899999999999999,27.67                            
+Slovenia,fish,7.76,12.39                                               
+Slovenia,eggs,9.360000000000001,8.6                                    
+Slovenia,dairy,235.01,334.75                                           
+Slovenia,wheat,103.43,19.72                                            
+Slovenia,rice,3.9499999999999997,5.05                                  
+Slovenia,soybeans,0.75,0.33999999999999997                             
+Slovenia,nuts,5.28,9.350000000000001                                   
+Chile,pork,24.68,87.35                                                 
+Chile,poultry,36.52,39.230000000000004                                 
+Chile,beef,23.86,736.2700000000001                                     
+Chile,lamb_goat,0.42000000000000004,14.709999999999999                 
+Chile,fish,7.6499999999999995,12.209999999999999                       
+Chile,eggs,9.97,9.16                                                   
+Chile,dairy,116.11,165.39000000000001                                  
+Chile,wheat,104.74000000000001,19.97                                   
+Chile,rice,8.850000000000001,11.33                                     
+Chile,soybeans,0.04,0.02                                               
+Chile,nuts,2.22,3.9299999999999997                                     
+Venezuela,pork,7.23,25.59                                              
+Venezuela,poultry,39.28,42.190000000000005                             
+Venezuela,beef,25.89,798.91                                            
+Venezuela,lamb_goat,0.32,11.209999999999999                            
+Venezuela,fish,8.34,13.32                                              
+Venezuela,eggs,5.63,5.17                                               
+Venezuela,dairy,117.79,167.78                                          
+Venezuela,wheat,49.17,9.38                                             
+Venezuela,rice,23.39,29.93                                             
+Venezuela,soybeans,0,0                                                 
+Venezuela,nuts,0.35,0.62                                               
+Belgium,pork,38.65,136.8                                               
+Belgium,poultry,12.2,13.11                                             
+Belgium,beef,15.629999999999999,482.31                                 
+Belgium,lamb_goat,1.32,46.230000000000004                              
+Belgium,fish,18.97,30.29                                               
+Belgium,eggs,12.59,11.57                                               
+Belgium,dairy,236.19,336.42999999999995                                
+Belgium,wheat,111.91000000000001,21.34                                 
+Belgium,rice,8.61,11.02                                                
+Belgium,soybeans,0.07,0.03                                             
+Belgium,nuts,7.319999999999999,12.96                                   
+Germany,pork,51.809999999999995,183.38000000000002                     
+Germany,poultry,17.75,19.07                                            
+Germany,beef,13.16,406.09                                              
+Germany,lamb_goat,0.73,25.56                                           
+Germany,fish,11.16,17.82                                               
+Germany,eggs,12.2,11.209999999999999                                   
+Germany,dairy,258.7,368.48999999999995                                 
+Germany,wheat,83.41000000000001,15.91                                  
+Germany,rice,3.34,4.2700000000000005                                   
+Germany,soybeans,0.88,0.4                                              
+Germany,nuts,7.96,14.09                                                
+Russia,pork,25.66,90.82                                                
+Russia,poultry,27.5,29.54                                              
+Russia,beef,16.979999999999997,523.97                                  
+Russia,lamb_goat,1.4,49.03                                             
+Russia,fish,20.82,33.24                                                
+Russia,eggs,15.43,14.17                                                
+Russia,dairy,163.57,232.99                                             
+Russia,wheat,130.99,24.979999999999997                                 
+Russia,rice,4.71,6.03                                                  
+Russia,soybeans,0.05,0.02                                              
+Russia,nuts,1.62,2.8699999999999997                                    
+Croatia,pork,42.790000000000006,151.46                                 
+Croatia,poultry,8.52,9.15                                              
+Croatia,beef,12.41,382.95                                              
+Croatia,lamb_goat,1.71,59.879999999999995                              
+Croatia,fish,15.83,25.279999999999998                                  
+Croatia,eggs,8.48,7.79                                                 
+Croatia,dairy,231.02,329.06                                            
+Croatia,wheat,106.59,20.330000000000002                                
+Croatia,rice,2.64,3.38                                                 
+Croatia,soybeans,0,0                                                   
+Croatia,nuts,3.88,6.87                                                 
+Belarus,pork,40.37,142.89000000000001                                  
+Belarus,poultry,31.29,33.61                                            
+Belarus,beef,17.110000000000003,527.98                                 
+Belarus,lamb_goat,0.11,3.8499999999999996                              
+Belarus,fish,15.75,25.150000000000002                                  
+Belarus,eggs,15.860000000000001,14.57                                  
+Belarus,dairy,133.73,190.49                                            
+Belarus,wheat,60.48,11.53                                              
+Belarus,rice,3.17,4.06                                                 
+Belarus,soybeans,0.3,0.14                                              
+Belarus,nuts,3.36,5.95                                                 
+Spain,pork,48.92,173.15                                                
+Spain,poultry,28.630000000000003,30.75                                 
+Spain,beef,12.15,374.91999999999996                                    
+Spain,lamb_goat,2.16,75.64                                             
+Spain,fish,28.830000000000002,46.03                                    
+Spain,eggs,13.32,12.239999999999998                                    
+Spain,dairy,164.29,234.01                                              
+Spain,wheat,93.88,17.9                                                 
+Spain,rice,8.32,10.65                                                  
+Spain,soybeans,0.02,0.01                                               
+Spain,nuts,7.44,13.17                                                  
+Paraguay,pork,26.24,92.88                                              
+Paraguay,poultry,6.39,6.859999999999999                                
+Paraguay,beef,19.810000000000002,611.2900000000001                     
+Paraguay,lamb_goat,0.56,19.610000000000003                             
+Paraguay,fish,3.6,5.75                                                 
+Paraguay,eggs,18.830000000000002,17.3                                  
+Paraguay,dairy,75.72,107.86                                            
+Paraguay,wheat,31.51,6.01                                              
+Paraguay,rice,4.91,6.28                                                
+Paraguay,soybeans,0,0                                                  
+Paraguay,nuts,1.6,2.8299999999999996                                   
+New Caledonia,pork,19.9,70.44000000000001                              
+New Caledonia,poultry,44.36,47.65                                      
+New Caledonia,beef,16.07,495.89                                        
+New Caledonia,lamb_goat,1.95,68.29                                     
+New Caledonia,fish,19.38,30.939999999999998                            
+New Caledonia,eggs,8.850000000000001,8.129999999999999                 
+New Caledonia,dairy,108,153.84                                         
+New Caledonia,wheat,81.75,15.59                                        
+New Caledonia,rice,17.47,22.36                                         
+New Caledonia,soybeans,0.55,0.25                                       
+New Caledonia,nuts,2.96,5.24                                           
+South Africa,pork,4.159999999999999,14.719999999999999                 
+South Africa,poultry,37.57,40.36                                       
+South Africa,beef,18.03,556.37                                         
+South Africa,lamb_goat,4.28,149.89000000000001                         
+South Africa,fish,5.56,8.88                                            
+South Africa,eggs,7.21,6.619999999999999                               
+South Africa,dairy,55.75,79.41000000000001                             
+South Africa,wheat,60.13,11.47                                         
+South Africa,rice,17.41,22.279999999999998                             
+South Africa,soybeans,1.27,0.5700000000000001                          
+South Africa,nuts,1.04,1.84                                            
+Barbados,pork,8.3,29.38                                                
+Barbados,poultry,42.620000000000005,45.78                              
+Barbados,beef,13.129999999999999,405.16                                
+Barbados,lamb_goat,4.08,142.88000000000002                             
+Barbados,fish,37.41,59.730000000000004                                 
+Barbados,eggs,9.61,8.83                                                
+Barbados,dairy,110.48,157.37                                           
+Barbados,wheat,65.71000000000001,12.53                                 
+Barbados,rice,15.66,20.04                                              
+Barbados,soybeans,0.1,0.05                                             
+Barbados,nuts,4.159999999999999,7.359999999999999                      
+Lithuania,pork,45.67,161.65                                            
+Lithuania,poultry,26.84,28.830000000000002                             
+Lithuania,beef,4.49,138.55                                             
+Lithuania,lamb_goat,0.24000000000000002,8.4                            
+Lithuania,fish,42.39,67.67999999999999                                 
+Lithuania,eggs,13.11,12.04                                             
+Lithuania,dairy,295.46,420.85                                          
+Lithuania,wheat,121.59,23.19                                           
+Lithuania,rice,3.07,3.9299999999999997                                 
+Lithuania,soybeans,0.02,0.01                                           
+Lithuania,nuts,2.13,3.77                                               
+Turkey,pork,0.01,0.04                                                  
+Turkey,poultry,18.779999999999998,20.17                                
+Turkey,beef,11.639999999999999,359.19                                  
+Turkey,lamb_goat,4.68,163.89000000000001                               
+Turkey,fish,5.58,8.91                                                  
+Turkey,eggs,8.2,7.53                                                   
+Turkey,dairy,193.94,276.25                                             
+Turkey,wheat,169.96,32.41                                              
+Turkey,rice,10.739999999999998,13.739999999999998                      
+Turkey,soybeans,1.71,0.77                                              
+Turkey,nuts,7.970000000000001,14.11                                    
+Estonia,pork,29.68,105.05                                              
+Estonia,poultry,21.110000000000003,22.68                               
+Estonia,beef,7.1899999999999995,221.87                                 
+Estonia,lamb_goat,0.44,15.41                                           
+Estonia,fish,12.78,20.41                                               
+Estonia,eggs,12.66,11.629999999999999                                  
+Estonia,dairy,284.85,405.74                                            
+Estonia,wheat,89.36,17.04                                              
+Estonia,rice,2.56,3.2800000000000002                                   
+Estonia,soybeans,0.04,0.02                                             
+Estonia,nuts,4.29,7.59                                                 
+Mexico,pork,15.229999999999999,53.91                                   
+Mexico,poultry,30.12,32.349999999999994                                
+Mexico,beef,15.33,473.05                                               
+Mexico,lamb_goat,0.89,31.17                                            
+Mexico,fish,7.56,12.07                                                 
+Mexico,eggs,18.34,16.85                                                
+Mexico,dairy,111.86999999999999,159.35000000000002                     
+Mexico,wheat,35.21,6.71                                                
+Mexico,rice,5.64,7.22                                                  
+Mexico,soybeans,0.02,0.01                                              
+Mexico,nuts,2.51,4.44                                                  
+Costa Rica,pork,10.28,36.39                                            
+Costa Rica,poultry,24.47,26.29                                         
+Costa Rica,beef,15.229999999999999,469.96999999999997                  
+Costa Rica,lamb_goat,0.02,0.7                                          
+Costa Rica,fish,11.32,18.07                                            
+Costa Rica,eggs,10.55,9.69                                             
+Costa Rica,dairy,183.28,261.06                                         
+Costa Rica,wheat,39.309999999999995,7.5                                
+Costa Rica,rice,45.690000000000005,58.47                               
+Costa Rica,soybeans,1.54,0.69                                          
+Costa Rica,nuts,1.3800000000000001,2.44                                
+Bolivia,pork,8.89,31.47                                                
+Bolivia,poultry,34.309999999999995,36.86                               
+Bolivia,beef,19.779999999999998,610.37                                 
+Bolivia,lamb_goat,1.72,60.230000000000004                              
+Bolivia,fish,2.18,3.48                                                 
+Bolivia,eggs,5.18,4.76                                                 
+Bolivia,dairy,46.04,65.58                                              
+Bolivia,wheat,49.99,9.53                                               
+Bolivia,rice,26.99,34.54                                               
+Bolivia,soybeans,0.01,0                                                
+Bolivia,nuts,9.16,16.21                                                
+Ecuador,pork,14.44,51.11                                               
+Ecuador,poultry,21.85,23.47                                            
+Ecuador,beef,16.610000000000003,512.55                                 
+Ecuador,lamb_goat,0.44,15.41                                           
+Ecuador,fish,5.17,8.25                                                 
+Ecuador,eggs,8.01,7.359999999999999                                    
+Ecuador,dairy,139.6,198.85000000000002                                 
+Ecuador,wheat,39.190000000000005,7.470000000000001                     
+Ecuador,rice,45.07,57.68                                               
+Ecuador,soybeans,0,0                                                   
+Ecuador,nuts,0.98,1.73                                                 
+Panama,pork,13.48,47.71                                                
+Panama,poultry,30.810000000000002,33.1                                 
+Panama,beef,20.4,629.5                                                 
+Panama,lamb_goat,0.01,0.35                                             
+Panama,fish,11.05,17.64                                                
+Panama,eggs,4.53,4.159999999999999                                     
+Panama,dairy,70.29,100.11999999999999                                  
+Panama,wheat,38.96,7.430000000000001                                   
+Panama,rice,66.42,85                                                   
+Panama,soybeans,3.53,1.59                                              
+Panama,nuts,1.05,1.86                                                  
+Czech Republic,pork,41.17,145.72                                       
+Czech Republic,poultry,19.09,20.51                                     
+Czech Republic,beef,8.15,251.49                                        
+Czech Republic,lamb_goat,0.33999999999999997,11.91                     
+Czech Republic,fish,8.25,13.17                                         
+Czech Republic,eggs,11.66,10.709999999999999                           
+Czech Republic,dairy,195.2,278.04                                      
+Czech Republic,wheat,92.66999999999999,17.67                           
+Czech Republic,rice,4.79,6.13                                          
+Czech Republic,soybeans,0.8200000000000001,0.37                        
+Czech Republic,nuts,2.4699999999999998,4.37                            
+Romania,pork,25.310000000000002,89.58                                  
+Romania,poultry,15.38,16.52                                            
+Romania,beef,4.78,147.5                                                
+Romania,lamb_goat,3.4099999999999997,119.42                            
+Romania,fish,6.07,9.69                                                 
+Romania,eggs,12.94,11.89                                               
+Romania,dairy,238.33,339.47999999999996                                
+Romania,wheat,134.87,25.72                                             
+Romania,rice,2.59,3.3099999999999996                                   
+Romania,soybeans,0.01,0                                                
+Romania,nuts,1.8,3.19                                                  
+Colombia,pork,6.51,23.04                                               
+Colombia,poultry,27.57,29.62                                           
+Colombia,beef,16.36,504.84000000000003                                 
+Colombia,lamb_goat,0.21000000000000002,7.35                            
+Colombia,fish,6.01,9.6                                                 
+Colombia,eggs,10.78,9.9                                                
+Colombia,dairy,108.47,154.5                                            
+Colombia,wheat,29.79,5.68                                              
+Colombia,rice,28.02,35.86                                              
+Colombia,soybeans,0.89,0.4                                             
+Colombia,nuts,0.42000000000000004,0.74                                 
+Maldives,pork,1.22,4.319999999999999                                   
+Maldives,poultry,18.47,19.84                                           
+Maldives,beef,9.44,291.3                                               
+Maldives,lamb_goat,0.7,24.51                                           
+Maldives,fish,179.70999999999998,286.94                                
+Maldives,eggs,10.79,9.91                                               
+Maldives,dairy,111.47,158.78                                           
+Maldives,wheat,77.77,14.83                                             
+Maldives,rice,50.730000000000004,64.92                                 
+Maldives,soybeans,0.2,0.09                                             
+Maldives,nuts,15.83,28.02                                              
+Cyprus,pork,38.379999999999995,135.85000000000002                      
+Cyprus,poultry,24.45,26.259999999999998                                
+Cyprus,beef,5.79,178.67                                                
+Cyprus,lamb_goat,5.05,176.85000000000002                               
+Cyprus,fish,14.860000000000001,23.73                                   
+Cyprus,eggs,8.98,8.25                                                  
+Cyprus,dairy,113.31,161.4                                              
+Cyprus,wheat,83.25,15.88                                               
+Cyprus,rice,4.94,6.319999999999999                                     
+Cyprus,soybeans,0.04,0.02                                              
+Cyprus,nuts,4.6,8.139999999999999                                      
+Serbia,pork,32.04,113.41000000000001                                   
+Serbia,poultry,10.639999999999999,11.43                                
+Serbia,beef,7.05,217.55                                                
+Serbia,lamb_goat,3.56,124.66999999999999                               
+Serbia,fish,5.59,8.93                                                  
+Serbia,eggs,8.89,8.17                                                  
+Serbia,dairy,148.53,211.57                                             
+Serbia,wheat,105.88,20.19                                              
+Serbia,rice,1.22,1.56                                                  
+Serbia,soybeans,0,0                                                    
+Serbia,nuts,3.3099999999999996,5.859999999999999                       
+United Arab Emirates,pork,0,0                                          
+United Arab Emirates,poultry,41.04,44.09                               
+United Arab Emirates,beef,5.64,174.04                                  
+United Arab Emirates,lamb_goat,9.08,317.97999999999996                 
+United Arab Emirates,fish,20.41,32.59                                  
+United Arab Emirates,eggs,8.229999999999999,7.56                       
+United Arab Emirates,dairy,132.66,188.96                               
+United Arab Emirates,wheat,101.29,19.32                                
+United Arab Emirates,rice,56.25,71.98                                  
+United Arab Emirates,soybeans,0.08,0.04                                
+United Arab Emirates,nuts,23.03,40.760000000000005                     
+Algeria,pork,0,0                                                       
+Algeria,poultry,7.42,7.970000000000001                                 
+Algeria,beef,5.6,172.8                                                 
+Algeria,lamb_goat,7.6899999999999995,269.3                             
+Algeria,fish,3.74,5.970000000000001                                    
+Algeria,eggs,8.06,7.4                                                  
+Algeria,dairy,141.53,201.6                                             
+Algeria,wheat,185.42000000000002,35.36                                 
+Algeria,rice,2.9699999999999998,3.8                                    
+Algeria,soybeans,0,0                                                   
+Algeria,nuts,2.08,3.68                                                 
+Ukraine,pork,20.56,72.77                                               
+Ukraine,poultry,24.23,26.03                                            
+Ukraine,beef,8.96,276.48999999999995                                   
+Ukraine,lamb_goat,0.41000000000000003,14.360000000000001               
+Ukraine,fish,15.229999999999999,24.32                                  
+Ukraine,eggs,18.01,16.54                                               
+Ukraine,dairy,145.03,206.58                                            
+Ukraine,wheat,105.14999999999999,20.05                                 
+Ukraine,rice,3,3.84                                                    
+Ukraine,soybeans,0.02,0.01                                             
+Ukraine,nuts,2.68,4.74                                                 
+Pakistan,pork,0,0                                                      
+Pakistan,poultry,5.01,5.38                                             
+Pakistan,beef,8.82,272.17                                              
+Pakistan,lamb_goat,2.46,86.14999999999999                              
+Pakistan,fish,1.87,2.9899999999999998                                  
+Pakistan,eggs,2.9499999999999997,2.71                                  
+Pakistan,dairy,183.13,260.85                                           
+Pakistan,wheat,113.63,21.67                                            
+Pakistan,rice,12.25,15.68                                              
+Pakistan,soybeans,0,0                                                  
+Pakistan,nuts,0.8300000000000001,1.47                                  
+Swaziland,pork,2.4299999999999997,8.6                                  
+Swaziland,poultry,6.18,6.64                                            
+Swaziland,beef,15.1,465.95                                             
+Swaziland,lamb_goat,1.94,67.94000000000001                             
+Swaziland,fish,1.26,2.01                                               
+Swaziland,eggs,1.5,1.3800000000000001                                  
+Swaziland,dairy,56.6,80.61999999999999                                 
+Swaziland,wheat,37.15,7.08                                             
+Swaziland,rice,21.150000000000002,27.07                                
+Swaziland,soybeans,0.55,0.25                                           
+Swaziland,nuts,6.44,11.4                                               
+Latvia,pork,34.96,123.74000000000001                                   
+Latvia,poultry,20.53,22.05                                             
+Latvia,beef,5.109999999999999,157.68                                   
+Latvia,lamb_goat,0.33999999999999997,11.91                             
+Latvia,fish,21.3,34.01                                                 
+Latvia,eggs,14.03,12.89                                                
+Latvia,dairy,174.10999999999999,248                                    
+Latvia,wheat,72.13,13.76                                               
+Latvia,rice,2.21,2.8299999999999996                                    
+Latvia,soybeans,0.04,0.02                                              
+Latvia,nuts,3.7800000000000002,6.6899999999999995                      
+Bosnia and Herzegovina,pork,9.38,33.2                                  
+Bosnia and Herzegovina,poultry,13.17,14.15                             
+Bosnia and Herzegovina,beef,9.12,281.41999999999996                    
+Bosnia and Herzegovina,lamb_goat,0.47000000000000003,16.459999999999997
+Bosnia and Herzegovina,fish,4.06,6.48                                  
+Bosnia and Herzegovina,eggs,4.49,4.119999999999999                     
+Bosnia and Herzegovina,dairy,174.03,247.89000000000001                 
+Bosnia and Herzegovina,wheat,93.56,17.84                               
+Bosnia and Herzegovina,rice,1.8800000000000001,2.4099999999999997      
+Bosnia and Herzegovina,soybeans,1.48,0.6699999999999999                
+Bosnia and Herzegovina,nuts,2,3.54                                     
+Fiji,pork,4.31,15.26                                                   
+Fiji,poultry,20.259999999999998,21.759999999999998                     
+Fiji,beef,8.96,276.48999999999995                                      
+Fiji,lamb_goat,5.9,206.62                                              
+Fiji,fish,35.01,55.9                                                   
+Fiji,eggs,6.44,5.92                                                    
+Fiji,dairy,40.2,57.260000000000005                                     
+Fiji,wheat,84.22,16.06                                                 
+Fiji,rice,45.620000000000005,58.379999999999995                        
+Fiji,soybeans,0.3,0.14                                                 
+Fiji,nuts,1.3,2.3                                                      
+South Korea,pork,32.760000000000005,115.95                             
+South Korea,poultry,16,17.19                                           
+South Korea,beef,14.53,448.37                                          
+South Korea,lamb_goat,0.14,4.9                                         
+South Korea,fish,33.09,52.83                                           
+South Korea,eggs,11.239999999999998,10.33                              
+South Korea,dairy,29.05,41.379999999999995                             
+South Korea,wheat,50.839999999999996,9.7                               
+South Korea,rice,85.17999999999999,109                                 
+South Korea,soybeans,8.350000000000001,3.7600000000000002              
+South Korea,nuts,4.88,8.639999999999999                                
+Poland,pork,46.190000000000005,163.49                                  
+Poland,poultry,27.41,29.439999999999998                                
+Poland,beef,2.32,71.59                                                 
+Poland,lamb_goat,0.02,0.7                                              
+Poland,fish,10.49,16.75                                                
+Poland,eggs,7.53,6.92                                                  
+Poland,dairy,205.39000000000001,292.56                                 
+Poland,wheat,108.83,20.75                                              
+Poland,rice,0.9500000000000001,1.22                                    
+Poland,soybeans,0.06,0.03                                              
+Poland,nuts,2.23,3.9499999999999997                                    
+Saudi Arabia,pork,0,0                                                  
+Saudi Arabia,poultry,49.05,52.690000000000005                          
+Saudi Arabia,beef,6.45,199.03                                          
+Saudi Arabia,lamb_goat,6.54,229.03                                     
+Saudi Arabia,fish,11.99,19.14                                          
+Saudi Arabia,eggs,5.37,4.930000000000001                               
+Saudi Arabia,dairy,83.64999999999999,119.14999999999999                
+Saudi Arabia,wheat,89.47,17.06                                         
+Saudi Arabia,rice,36.02,46.09                                          
+Saudi Arabia,soybeans,0.05,0.02                                        
+Saudi Arabia,nuts,3.23,5.72                                            
+Botswana,pork,0.74,2.62                                                
+Botswana,poultry,5.33,5.73                                             
+Botswana,beef,7.85,242.23                                              
+Botswana,lamb_goat,3.7600000000000002,131.67                           
+Botswana,fish,3.98,6.35                                                
+Botswana,eggs,1.95,1.79                                                
+Botswana,dairy,117.74000000000001,167.70999999999998                   
+Botswana,wheat,38.2,7.28                                               
+Botswana,rice,7.06,9.03                                                
+Botswana,soybeans,1.1600000000000001,0.52                              
+Botswana,nuts,1.08,1.91                                                
+Macedonia,pork,10.350000000000001,36.63                                
+Macedonia,poultry,18.77,20.16                                          
+Macedonia,beef,7.6899999999999995,237.3                                
+Macedonia,lamb_goat,0.9400000000000001,32.92                           
+Macedonia,fish,5.470000000000001,8.729999999999999                     
+Macedonia,eggs,6.38,5.859999999999999                                  
+Macedonia,dairy,157.93,224.96                                          
+Macedonia,wheat,104.8,19.99                                            
+Macedonia,rice,2.8099999999999996,3.6                                  
+Macedonia,soybeans,0.46,0.21000000000000002                            
+Macedonia,nuts,5.87,10.39                                              
+Hungary,pork,34.93,123.63                                              
+Hungary,poultry,23.779999999999998,25.54                               
+Hungary,beef,4.96,153.06                                               
+Hungary,lamb_goat,0.11,3.8499999999999996                              
+Hungary,fish,4.930000000000001,7.87                                    
+Hungary,eggs,12.450000000000001,11.44                                  
+Hungary,dairy,159.05,226.55                                            
+Hungary,wheat,109.98,20.97                                             
+Hungary,rice,2.15,2.75                                                 
+Hungary,soybeans,0.01,0                                                
+Hungary,nuts,0.64,1.1300000000000001                                   
+Trinidad and Tobago,pork,8.92,31.57                                    
+Trinidad and Tobago,poultry,58.27,62.59                                
+Trinidad and Tobago,beef,6.13,189.16                                   
+Trinidad and Tobago,lamb_goat,2.79,97.71000000000001                   
+Trinidad and Tobago,fish,20.54,32.8                                    
+Trinidad and Tobago,eggs,4.2,3.86                                      
+Trinidad and Tobago,dairy,103.8,147.85000000000002                     
+Trinidad and Tobago,wheat,90.16999999999999,17.2                       
+Trinidad and Tobago,rice,16.38,20.959999999999997                      
+Trinidad and Tobago,soybeans,0.04,0.02                                 
+Trinidad and Tobago,nuts,3.7800000000000002,6.6899999999999995         
+Tunisia,pork,0,0                                                       
+Tunisia,poultry,18.5,19.87                                             
+Tunisia,beef,5.53,170.64                                               
+Tunisia,lamb_goat,5.34,187.01                                          
+Tunisia,fish,12.629999999999999,20.17                                  
+Tunisia,eggs,7.67,7.05                                                 
+Tunisia,dairy,114.47,163.05                                            
+Tunisia,wheat,197.5,37.660000000000004                                 
+Tunisia,rice,1.07,1.37                                                 
+Tunisia,soybeans,1.8800000000000001,0.8500000000000001                 
+Tunisia,nuts,6.34,11.219999999999999                                   
+Egypt,pork,0.02,0.07                                                   
+Egypt,poultry,14.43,15.5                                               
+Egypt,beef,12.88,397.45                                                
+Egypt,lamb_goat,1.58,55.33                                             
+Egypt,fish,21.459999999999997,34.260000000000005                       
+Egypt,eggs,4.59,4.22                                                   
+Egypt,dairy,59.46,84.69                                                
+Egypt,wheat,146.83,28                                                  
+Egypt,rice,39.77,50.89                                                 
+Egypt,soybeans,0.64,0.29000000000000004                                
+Egypt,nuts,1.82,3.22                                                   
+Mauritius,pork,4.08,14.44                                              
+Mauritius,poultry,38.51,41.37                                          
+Mauritius,beef,5.99,184.84                                             
+Mauritius,lamb_goat,4.08,142.88000000000002                            
+Mauritius,fish,19.66,31.39                                             
+Mauritius,eggs,6.319999999999999,5.81                                  
+Mauritius,dairy,117.27,167.04                                          
+Mauritius,wheat,114.02,21.74                                           
+Mauritius,rice,45.56,58.3                                              
+Mauritius,soybeans,0.3,0.14                                            
+Mauritius,nuts,2.3299999999999996,4.119999999999999                    
+Bulgaria,pork,26.259999999999998,92.95                                 
+Bulgaria,poultry,20.68,22.21                                           
+Bulgaria,beef,3.84,118.49000000000001                                  
+Bulgaria,lamb_goat,1.6300000000000001,57.08                            
+Bulgaria,fish,6.24,9.96                                                
+Bulgaria,eggs,8.360000000000001,7.68                                   
+Bulgaria,dairy,155.70999999999998,221.79                               
+Bulgaria,wheat,121.16999999999999,23.110000000000003                   
+Bulgaria,rice,2.24,2.8699999999999997                                  
+Bulgaria,soybeans,0.04,0.02                                            
+Bulgaria,nuts,2.2600000000000002,4                                     
+Morocco,pork,0.01,0.04                                                 
+Morocco,poultry,20.77,22.310000000000002                               
+Morocco,beef,8.04,248.1                                                
+Morocco,lamb_goat,4.359999999999999,152.69                             
+Morocco,fish,17.439999999999998,27.85                                  
+Morocco,eggs,6.68,6.14                                                 
+Morocco,dairy,54.68,77.89                                              
+Morocco,wheat,179.7,34.27                                              
+Morocco,rice,1.1,1.41                                                  
+Morocco,soybeans,0,0                                                   
+Morocco,nuts,3.23,5.72                                                 
+Slovakia,pork,31.779999999999998,112.49000000000001                    
+Slovakia,poultry,15.129999999999999,16.25                              
+Slovakia,beef,5.1899999999999995,160.15                                
+Slovakia,lamb_goat,0.16,5.6                                            
+Slovakia,fish,8.39,13.4                                                
+Slovakia,eggs,16.05,14.739999999999998                                 
+Slovakia,dairy,143.14,203.89000000000001                               
+Slovakia,wheat,123.61999999999999,23.57                                
+Slovakia,rice,2.88,3.69                                                
+Slovakia,soybeans,0.02,0.01                                            
+Slovakia,nuts,3.7,6.55                                                 
+Niger,pork,0.09,0.32                                                   
+Niger,poultry,1.08,1.1600000000000001                                  
+Niger,beef,8.97,276.8                                                  
+Niger,lamb_goat,4.17,146.03                                            
+Niger,fish,2.7,4.31                                                    
+Niger,eggs,0.3,0.28                                                    
+Niger,dairy,58.92,83.93                                                
+Niger,wheat,4.79,0.91                                                  
+Niger,rice,13.17,16.85                                                 
+Niger,soybeans,0,0                                                     
+Niger,nuts,6.95,12.3                                                   
+Kenya,pork,0.29000000000000004,1.03                                    
+Kenya,poultry,0.47000000000000003,0.5                                  
+Kenya,beef,9.54,294.38                                                 
+Kenya,lamb_goat,1.86,65.14                                             
+Kenya,fish,4.2700000000000005,6.819999999999999                        
+Kenya,eggs,1.84,1.6900000000000002                                     
+Kenya,dairy,94.86,135.12                                               
+Kenya,wheat,34.65,6.609999999999999                                    
+Kenya,rice,12.94,16.56                                                 
+Kenya,soybeans,0.2,0.09                                                
+Kenya,nuts,1.6400000000000001,2.9                                      
+Jordan,pork,0.02,0.07                                                  
+Jordan,poultry,33.39,35.87                                             
+Jordan,beef,5.609999999999999,173.10999999999999                       
+Jordan,lamb_goat,5.68,198.91                                           
+Jordan,fish,5.13,8.19                                                  
+Jordan,eggs,3.92,3.6                                                   
+Jordan,dairy,77.67999999999999,110.64999999999999                      
+Jordan,wheat,136.73999999999998,26.08                                  
+Jordan,rice,19.67,25.17                                                
+Jordan,soybeans,0.02,0.01                                              
+Jordan,nuts,3.56,6.3                                                   
+Japan,pork,20.62,72.98                                                 
+Japan,poultry,19.419999999999998,20.86                                 
+Japan,beef,9.15,282.35                                                 
+Japan,lamb_goat,0.14,4.9                                               
+Japan,fish,31.1,49.660000000000004                                     
+Japan,eggs,19.150000000000002,17.59                                    
+Japan,dairy,72.06,102.64                                               
+Japan,wheat,45.04,8.59                                                 
+Japan,rice,59.849999999999994,76.59                                    
+Japan,soybeans,7.34,3.3                                                
+Japan,nuts,2.59,4.58                                                   
+Georgia,pork,8.93,31.610000000000003                                   
+Georgia,poultry,12.28,13.19                                            
+Georgia,beef,6.04,186.38000000000002                                   
+Georgia,lamb_goat,0.63,22.06                                           
+Georgia,fish,10.42,16.64                                               
+Georgia,eggs,6.119999999999999,5.619999999999999                       
+Georgia,dairy,149.26,212.60999999999999                                
+Georgia,wheat,163.43,31.17                                             
+Georgia,rice,2.64,3.38                                                 
+Georgia,soybeans,0,0                                                   
+Georgia,nuts,2.4699999999999998,4.37                                   
+Grenada,pork,11.52,40.78                                               
+Grenada,poultry,43.51,46.74                                            
+Grenada,beef,3.46,106.77                                               
+Grenada,lamb_goat,1.25,43.77                                           
+Grenada,fish,27.95,44.63                                               
+Grenada,eggs,10.34,9.5                                                 
+Grenada,dairy,86.88,123.75                                             
+Grenada,wheat,59.59,11.360000000000001                                 
+Grenada,rice,9.56,12.229999999999999                                   
+Grenada,soybeans,0.01,0                                                
+Grenada,nuts,0.18,0.32                                                 
+El Salvador,pork,3.23,11.43                                            
+El Salvador,poultry,19.84,21.310000000000002                           
+El Salvador,beef,5.95,183.6                                            
+El Salvador,lamb_goat,0.02,0.7                                         
+El Salvador,fish,6.25,9.98                                             
+El Salvador,eggs,9.51,8.739999999999998                                
+El Salvador,dairy,124.34,177.10999999999999                            
+El Salvador,wheat,28.19,5.38                                           
+El Salvador,rice,10.53,13.48                                           
+El Salvador,soybeans,0.8,0.36                                          
+El Salvador,nuts,1.1,1.95                                              
+Cuba,pork,19.82,70.14999999999999                                      
+Cuba,poultry,20.150000000000002,21.650000000000002                     
+Cuba,beef,6.39,197.18                                                  
+Cuba,lamb_goat,1.24,43.42                                              
+Cuba,fish,4.76,7.6                                                     
+Cuba,eggs,9.82,9.02                                                    
+Cuba,dairy,99.94000000000001,142.35000000000002                        
+Cuba,wheat,54.620000000000005,10.42                                    
+Cuba,rice,67.7,86.64                                                   
+Cuba,soybeans,6.34,2.8499999999999996                                  
+Cuba,nuts,0.23,0.41000000000000003                                     
+China,pork,38.43,136.02                                                
+China,poultry,13.2,14.18                                               
+China,beef,5.119999999999999,157.99                                    
+China,lamb_goat,3.13,109.61                                            
+China,fish,21.01,33.55                                                 
+China,eggs,18.759999999999998,17.23                                    
+China,dairy,32.660000000000004,46.52                                   
+China,wheat,63.36,12.08                                                
+China,rice,78.17999999999999,100.05                                    
+China,soybeans,3.66,1.6500000000000001                                 
+China,nuts,6.39,11.31                                                  
+Honduras,pork,6.48,22.939999999999998                                  
+Honduras,poultry,20.29,21.8                                            
+Honduras,beef,7.1899999999999995,221.87                                
+Honduras,lamb_goat,0.04,1.4                                            
+Honduras,fish,2.7,4.31                                                 
+Honduras,eggs,5.1899999999999995,4.7700000000000005                    
+Honduras,dairy,91.33,130.09                                            
+Honduras,wheat,37.36,7.119999999999999                                 
+Honduras,rice,14.42,18.45                                              
+Honduras,soybeans,0.01,0                                               
+Honduras,nuts,0.75,1.33                                                
+Taiwan. ROC,pork,39.37,139.35000000000002                              
+Taiwan. ROC,poultry,32.13,34.51                                        
+Taiwan. ROC,beef,5.21,160.76999999999998                               
+Taiwan. ROC,lamb_goat,0.92,32.220000000000006                          
+Taiwan. ROC,fish,18.29,29.2                                            
+Taiwan. ROC,eggs,13.08,12.02                                           
+Taiwan. ROC,dairy,41.720000000000006,59.43                             
+Taiwan. ROC,wheat,50.92,9.709999999999999                              
+Taiwan. ROC,rice,45.849999999999994,58.67                              
+Taiwan. ROC,soybeans,16.95,7.63                                        
+Taiwan. ROC,nuts,9.06,16.04                                            
+Angola,pork,8.89,31.47                                                 
+Angola,poultry,17.330000000000002,18.62                                
+Angola,beef,8.42,259.82                                                
+Angola,lamb_goat,1.08,37.82                                            
+Angola,fish,15.239999999999998,24.330000000000002                      
+Angola,eggs,1.11,1.02                                                  
+Angola,dairy,12.3,17.52                                                
+Angola,wheat,40.720000000000006,7.7700000000000005                     
+Angola,rice,8.12,10.39                                                 
+Angola,soybeans,0.52,0.23                                              
+Angola,nuts,2.2600000000000002,4                                       
+Jamaica,pork,3.9899999999999998,14.12                                  
+Jamaica,poultry,52.51,56.41                                            
+Jamaica,beef,3.9699999999999998,122.51                                 
+Jamaica,lamb_goat,1.26,44.13                                           
+Jamaica,fish,21.95,35.05                                               
+Jamaica,eggs,2.27,2.09                                                 
+Jamaica,dairy,91.13,129.81                                             
+Jamaica,wheat,70.66999999999999,13.48                                  
+Jamaica,rice,23.45,30.01                                               
+Jamaica,soybeans,0,0                                                   
+Jamaica,nuts,1.82,3.22                                                 
+Namibia,pork,4.21,14.9                                                 
+Namibia,poultry,12.19,13.09                                            
+Namibia,beef,3.75,115.72                                               
+Namibia,lamb_goat,2.27,79.5                                            
+Namibia,fish,10.7,17.08                                                
+Namibia,eggs,1.6300000000000001,1.5                                    
+Namibia,dairy,73.05,104.05                                             
+Namibia,wheat,36.260000000000005,6.91                                  
+Namibia,rice,6.31,8.07                                                 
+Namibia,soybeans,0.07,0.03                                             
+Namibia,nuts,0.71,1.26                                                 
+Belize,pork,16.8,59.46                                                 
+Belize,poultry,28.310000000000002,30.41                                
+Belize,beef,4.859999999999999,149.97                                   
+Belize,lamb_goat,0.14,4.9                                              
+Belize,fish,7.57,12.09                                                 
+Belize,eggs,4.85,4.46                                                  
+Belize,dairy,80.3,114.38                                               
+Belize,wheat,54.06,10.31                                               
+Belize,rice,28.419999999999998,36.37                                   
+Belize,soybeans,1.8800000000000001,0.8500000000000001                  
+Belize,nuts,5.58,9.88                                                  
+Malaysia,pork,7.76,27.47                                               
+Malaysia,poultry,41.01,44.05                                           
+Malaysia,beef,6.52,201.19                                              
+Malaysia,lamb_goat,0.9400000000000001,32.92                            
+Malaysia,fish,49.43,78.92                                              
+Malaysia,eggs,16.57,15.219999999999999                                 
+Malaysia,dairy,25.279999999999998,36.01                                
+Malaysia,wheat,51.04,9.729999999999999                                 
+Malaysia,rice,81.25,103.98                                             
+Malaysia,soybeans,0.04,0.02                                            
+Malaysia,nuts,2.9,5.13                                                 
+Zimbabwe,pork,2.65,9.38                                                
+Zimbabwe,poultry,4.970000000000001,5.34                                
+Zimbabwe,beef,7.37,227.42000000000002                                  
+Zimbabwe,lamb_goat,0.96,33.620000000000005                             
+Zimbabwe,fish,2.8,4.470000000000001                                    
+Zimbabwe,eggs,1.75,1.61                                                
+Zimbabwe,dairy,31.9,45.44                                              
+Zimbabwe,wheat,31.310000000000002,5.970000000000001                    
+Zimbabwe,rice,10.09,12.91                                              
+Zimbabwe,soybeans,0.54,0.24000000000000002                             
+Zimbabwe,nuts,2.22,3.9299999999999997                                  
+Guatemala,pork,4.85,17.17                                              
+Guatemala,poultry,16.45,17.67                                          
+Guatemala,beef,5.6,172.8                                               
+Guatemala,lamb_goat,0.23,8.05                                          
+Guatemala,fish,1.08,1.72                                               
+Guatemala,eggs,14.61,13.42                                             
+Guatemala,dairy,46.6,66.38                                             
+Guatemala,wheat,35.9,6.85                                              
+Guatemala,rice,5.659999999999999,7.24                                  
+Guatemala,soybeans,0.32,0.14                                           
+Guatemala,nuts,2,3.54                                                  
+Uganda,pork,3.3699999999999997,11.93                                   
+Uganda,poultry,1.51,1.62                                               
+Uganda,beef,5.1499999999999995,158.92000000000002                      
+Uganda,lamb_goat,1.25,43.77                                            
+Uganda,fish,12.5,19.959999999999997                                    
+Uganda,eggs,0.97,0.89                                                  
+Uganda,dairy,37.27,53.09                                               
+Uganda,wheat,10.139999999999999,1.93                                   
+Uganda,rice,4.64,5.94                                                  
+Uganda,soybeans,0.01,0                                                 
+Uganda,nuts,3.77,6.67                                                  
+Nepal,pork,0.6699999999999999,2.3699999999999997                       
+Nepal,poultry,1.56,1.6800000000000002                                  
+Nepal,beef,7.89,243.47                                                 
+Nepal,lamb_goat,2.1,73.54                                              
+Nepal,fish,2.17,3.46                                                   
+Nepal,eggs,1.42,1.3                                                    
+Nepal,dairy,52.1,74.21000000000001                                     
+Nepal,wheat,50.46,9.62                                                 
+Nepal,rice,87.75,112.29                                                
+Nepal,soybeans,0.01,0                                                  
+Nepal,nuts,2.42,4.28                                                   
+Iran,pork,0,0                                                          
+Iran,poultry,25.38,27.259999999999998                                  
+Iran,beef,3.58,110.47                                                  
+Iran,lamb_goat,3.69,129.22                                             
+Iran,fish,9.8,15.65                                                    
+Iran,eggs,7.7,7.07                                                     
+Iran,dairy,46.690000000000005,66.51                                    
+Iran,wheat,153.31,29.24                                                
+Iran,rice,29.95,38.33                                                  
+Iran,soybeans,0,0                                                      
+Iran,nuts,12.16,21.52                                                  
+Tanzania,pork,0.32,1.1300000000000001                                  
+Tanzania,poultry,1.84,1.98                                             
+Tanzania,beef,6.09,187.92000000000002                                  
+Tanzania,lamb_goat,1.28,44.83                                          
+Tanzania,fish,5.5,8.78                                                 
+Tanzania,eggs,0.58,0.53                                                
+Tanzania,dairy,40.290000000000006,57.39                                
+Tanzania,wheat,15.94,3.04                                              
+Tanzania,rice,21.01,26.89                                              
+Tanzania,soybeans,0.04,0.02                                            
+Tanzania,nuts,5.94,10.51                                               
+Senegal,pork,0.9400000000000001,3.3299999999999996                     
+Senegal,poultry,4.619999999999999,4.96                                 
+Senegal,beef,5.85,180.52                                               
+Senegal,lamb_goat,3.19,111.71000000000001                              
+Senegal,fish,22.939999999999998,36.63                                  
+Senegal,eggs,1.6300000000000001,1.5                                    
+Senegal,dairy,16.86,24.02                                              
+Senegal,wheat,37.32,7.119999999999999                                  
+Senegal,rice,72.29,92.51                                               
+Senegal,soybeans,0,0                                                   
+Senegal,nuts,4.03,7.13                                                 
+Peru,pork,3.8499999999999996,13.629999999999999                        
+Peru,poultry,11.719999999999999,12.59                                  
+Peru,beef,4.6899999999999995,144.72                                    
+Peru,lamb_goat,1,35.02                                                 
+Peru,fish,15.739999999999998,25.130000000000003                        
+Peru,eggs,8.76,8.05                                                    
+Peru,dairy,62.15,88.53                                                 
+Peru,wheat,56.120000000000005,10.7                                     
+Peru,rice,48.92,62.6                                                   
+Peru,soybeans,1.59,0.72                                                
+Peru,nuts,0.65,1.1500000000000001                                      
+Nicaragua,pork,3.38,11.96                                              
+Nicaragua,poultry,21.310000000000002,22.89                             
+Nicaragua,beef,4.73,145.96                                             
+Nicaragua,lamb_goat,0.01,0.35                                          
+Nicaragua,fish,3.59,5.73                                               
+Nicaragua,eggs,4.9,4.5                                                 
+Nicaragua,dairy,85.16,121.3                                            
+Nicaragua,wheat,28.17,5.37                                             
+Nicaragua,rice,43.33,55.449999999999996                                
+Nicaragua,soybeans,0.01,0                                              
+Nicaragua,nuts,2.36,4.18                                               
+Vietnam,pork,35,123.88                                                 
+Vietnam,poultry,12.360000000000001,13.28                               
+Vietnam,beef,7.44,229.58                                               
+Vietnam,lamb_goat,0.14,4.9                                             
+Vietnam,fish,26.52,42.339999999999996                                  
+Vietnam,eggs,3.84,3.53                                                 
+Vietnam,dairy,16.36,23.3                                               
+Vietnam,wheat,10.49,2                                                  
+Vietnam,rice,144.56,184.99                                             
+Vietnam,soybeans,5.75,2.59                                             
+Vietnam,nuts,6.28,11.12                                                
+Ethiopia,pork,0.02,0.07                                                
+Ethiopia,poultry,0.6599999999999999,0.71                               
+Ethiopia,beef,3.61,111.4                                               
+Ethiopia,lamb_goat,1.57,54.98                                          
+Ethiopia,fish,0.24000000000000002,0.38                                 
+Ethiopia,eggs,0.36,0.32999999999999996                                 
+Ethiopia,dairy,44.14,62.87                                             
+Ethiopia,wheat,31.259999999999998,5.96                                 
+Ethiopia,rice,2.25,2.88                                                
+Ethiopia,soybeans,0.45,0.2                                             
+Ethiopia,nuts,1.21,2.14                                                
+Myanmar,pork,11.31,40.03                                               
+Myanmar,poultry,21.87,23.49                                            
+Myanmar,beef,4.94,152.44                                               
+Myanmar,lamb_goat,0.89,31.17                                           
+Myanmar,fish,54.260000000000005,86.64                                  
+Myanmar,eggs,6.45,5.92                                                 
+Myanmar,dairy,31.479999999999997,44.839999999999996                    
+Myanmar,wheat,6.22,1.1900000000000002                                  
+Myanmar,rice,132.8,169.94                                              
+Myanmar,soybeans,0.38,0.17                                             
+Myanmar,nuts,4.5,7.970000000000001                                     
+Congo,pork,2.3899999999999997,8.46                                     
+Congo,poultry,13.02,13.99                                              
+Congo,beef,4.35,134.23                                                 
+Congo,lamb_goat,0.4,14.01                                              
+Congo,fish,26.22,41.86                                                 
+Congo,eggs,0.6,0.55                                                    
+Congo,dairy,10.69,15.229999999999999                                   
+Congo,wheat,40.07,7.64                                                 
+Congo,rice,16.51,21.130000000000003                                    
+Congo,soybeans,0,0                                                     
+Congo,nuts,3.08,5.45                                                   
+Zambia,pork,1.6600000000000001,5.88                                    
+Zambia,poultry,3.29,3.53                                               
+Zambia,beef,4.76,146.88000000000002                                    
+Zambia,lamb_goat,0.6799999999999999,23.810000000000002                 
+Zambia,fish,6.2,9.9                                                    
+Zambia,eggs,3.32,3.05                                                  
+Zambia,dairy,9.709999999999999,13.83                                   
+Zambia,wheat,12.1,2.3099999999999996                                   
+Zambia,rice,3.05,3.9                                                   
+Zambia,soybeans,7.3,3.29                                               
+Zambia,nuts,5.04,8.92                                                  
+Cameroon,pork,1.47,5.2                                                 
+Cameroon,poultry,3.29,3.53                                             
+Cameroon,beef,4.17,128.68                                              
+Cameroon,lamb_goat,1.4,49.03                                           
+Cameroon,fish,14.709999999999999,23.49                                 
+Cameroon,eggs,0.4,0.37                                                 
+Cameroon,dairy,15.27,21.75                                             
+Cameroon,wheat,22.6,4.31                                               
+Cameroon,rice,23.85,30.52                                              
+Cameroon,soybeans,0.64,0.29000000000000004                             
+Cameroon,nuts,9.29,16.439999999999998                                  
+Madagascar,pork,2.56,9.06                                              
+Madagascar,poultry,3.14,3.3699999999999997                             
+Madagascar,beef,7.51,231.73999999999998                                
+Madagascar,lamb_goat,0.5700000000000001,19.959999999999997             
+Madagascar,fish,4.41,7.04                                              
+Madagascar,eggs,0.71,0.65                                              
+Madagascar,dairy,24.84,35.379999999999995                              
+Madagascar,wheat,9.01,1.72                                             
+Madagascar,rice,102.53,131.20999999999998                              
+Madagascar,soybeans,0,0                                                
+Madagascar,nuts,0.35,0.62                                              
+Malawi,pork,5.45,19.29                                                 
+Malawi,poultry,1.3800000000000001,1.48                                 
+Malawi,beef,2.3499999999999996,72.52                                   
+Malawi,lamb_goat,2.07,72.49000000000001                                
+Malawi,fish,7.33,11.7                                                  
+Malawi,eggs,1.08,0.99                                                  
+Malawi,dairy,7.98,11.370000000000001                                   
+Malawi,wheat,11.77,2.24                                                
+Malawi,rice,4.75,6.08                                                  
+Malawi,soybeans,1.76,0.7899999999999999                                
+Malawi,nuts,5.08,8.99                                                  
+Guinea,pork,0.16,0.5700000000000001                                    
+Guinea,poultry,1.83,1.97                                               
+Guinea,beef,6.26,193.17                                                
+Guinea,lamb_goat,1.6,56.03                                             
+Guinea,fish,9.18,14.66                                                 
+Guinea,eggs,1.95,1.79                                                  
+Guinea,dairy,20.62,29.37                                               
+Guinea,wheat,18.55,3.54                                                
+Guinea,rice,97.11999999999999,124.28                                   
+Guinea,soybeans,0,0                                                    
+Guinea,nuts,4.14,7.33                                                  
+Nigeria,pork,1.47,5.2                                                  
+Nigeria,poultry,1.73,1.86                                              
+Nigeria,beef,2.3299999999999996,71.9                                   
+Nigeria,lamb_goat,2.72,95.25                                           
+Nigeria,fish,16.03,25.59                                               
+Nigeria,eggs,3.46,3.18                                                 
+Nigeria,dairy,7.91,11.27                                               
+Nigeria,wheat,20.82,3.9699999999999998                                 
+Nigeria,rice,28.23,36.13                                               
+Nigeria,soybeans,2.6,1.1700000000000002                                
+Nigeria,nuts,6.930000000000001,12.27                                   
+Rwanda,pork,0.76,2.69                                                  
+Rwanda,poultry,1.34,1.44                                               
+Rwanda,beef,2.53,78.07                                                 
+Rwanda,lamb_goat,1.93,67.59                                            
+Rwanda,fish,3.88,6.2                                                   
+Rwanda,eggs,0.16,0.15000000000000002                                   
+Rwanda,dairy,7.23,10.3                                                 
+Rwanda,wheat,11.34,2.16                                                
+Rwanda,rice,8.7,11.129999999999999                                     
+Rwanda,soybeans,1.93,0.8700000000000001                                
+Rwanda,nuts,0.58,1.03                                                  
+Philippines,pork,18.4,65.13                                            
+Philippines,poultry,11.91,12.79                                        
+Philippines,beef,4.06,125.28                                           
+Philippines,lamb_goat,0.56,19.610000000000003                          
+Philippines,fish,28.51,45.52                                           
+Philippines,eggs,4.02,3.69                                             
+Philippines,dairy,15.66,22.310000000000002                             
+Philippines,wheat,23.12,4.41                                           
+Philippines,rice,119.44000000000001,152.85000000000002                 
+Philippines,soybeans,0.03,0.01                                         
+Philippines,nuts,2.08,3.68                                             
+Ghana,pork,1.36,4.81                                                   
+Ghana,poultry,8.629999999999999,9.27                                   
+Ghana,beef,1.09,33.64                                                  
+Ghana,lamb_goat,1.74,60.93                                             
+Ghana,fish,26.05,41.59                                                 
+Ghana,eggs,1.21,1.11                                                   
+Ghana,dairy,9.08,12.93                                                 
+Ghana,wheat,14.450000000000001,2.7600000000000002                      
+Ghana,rice,32.03,40.99                                                 
+Ghana,soybeans,0.01,0                                                  
+Ghana,nuts,5.56,9.84                                                   
+Togo,pork,1.57,5.56                                                    
+Togo,poultry,6.63,7.119999999999999                                    
+Togo,beef,1.53,47.21                                                   
+Togo,lamb_goat,1.58,55.33                                              
+Togo,fish,11.69,18.67                                                  
+Togo,eggs,0.8600000000000001,0.7899999999999999                        
+Togo,dairy,7.96,11.34                                                  
+Togo,wheat,12.91,2.46                                                  
+Togo,rice,25.99,33.260000000000005                                     
+Togo,soybeans,0.01,0                                                   
+Togo,nuts,3.59,6.35                                                    
+Gambia,pork,0.18,0.64                                                  
+Gambia,poultry,2.66,2.86                                               
+Gambia,beef,2.16,66.64999999999999                                     
+Gambia,lamb_goat,0.71,24.86                                            
+Gambia,fish,23.130000000000003,36.93                                   
+Gambia,eggs,0.99,0.91                                                  
+Gambia,dairy,45.71,65.11                                               
+Gambia,wheat,37.91,7.23                                                
+Gambia,rice,61.839999999999996,79.14                                   
+Gambia,soybeans,0,0                                                    
+Gambia,nuts,5.2700000000000005,9.33                                    
+India,pork,0.28,0.99                                                   
+India,poultry,1.8800000000000001,2.02                                  
+India,beef,0.81,24.99                                                  
+India,lamb_goat,0.58,20.310000000000002                                
+India,fish,4.71,7.52                                                   
+India,eggs,2.58,2.3699999999999997                                     
+India,dairy,84.5,120.36                                                
+India,wheat,60.56,11.55                                                
+India,rice,69.49000000000001,88.93                                     
+India,soybeans,0.39,0.18                                               
+India,nuts,1.92,3.4                                                    
+Thailand,pork,13,46.01                                                 
+Thailand,poultry,13.69,14.709999999999999                              
+Thailand,beef,2.56,79                                                  
+Thailand,lamb_goat,0.05,1.75                                           
+Thailand,fish,19.45,31.06                                              
+Thailand,eggs,12.350000000000001,11.34                                 
+Thailand,dairy,29.35,41.809999999999995                                
+Thailand,wheat,10.93,2.08                                              
+Thailand,rice,114.57,146.62                                            
+Thailand,soybeans,2.13,0.96                                            
+Thailand,nuts,1.5,2.66                                                 
+Mozambique,pork,5.13,18.16                                             
+Mozambique,poultry,1.41,1.51                                           
+Mozambique,beef,1.04,32.09                                             
+Mozambique,lamb_goat,0.9,31.52                                         
+Mozambique,fish,7.74,12.360000000000001                                
+Mozambique,eggs,1.7,1.56                                               
+Mozambique,dairy,4.79,6.819999999999999                                
+Mozambique,wheat,14.65,2.79                                            
+Mozambique,rice,23.41,29.959999999999997                               
+Mozambique,soybeans,0.03,0.01                                          
+Mozambique,nuts,2.61,4.619999999999999                                 
+Cambodia,pork,6.52,23.08                                               
+Cambodia,poultry,1.84,1.98                                             
+Cambodia,beef,4.85,149.66                                              
+Cambodia,lamb_goat,0,0                                                 
+Cambodia,fish,39.59,63.21                                              
+Cambodia,eggs,1.37,1.26                                                
+Cambodia,dairy,3.4699999999999998,4.94                                 
+Cambodia,wheat,2.74,0.52                                               
+Cambodia,rice,159.1,203.6                                              
+Cambodia,soybeans,4.33,1.95                                            
+Cambodia,nuts,1.25,2.21                                                
+Sierra Leone,pork,1.22,4.319999999999999                               
+Sierra Leone,poultry,4.970000000000001,5.34                            
+Sierra Leone,beef,1.99,61.41                                           
+Sierra Leone,lamb_goat,0.65,22.759999999999998                         
+Sierra Leone,fish,32.03,51.14                                          
+Sierra Leone,eggs,1.92,1.76                                            
+Sierra Leone,dairy,7,9.97                                              
+Sierra Leone,wheat,8.719999999999999,1.6600000000000001                
+Sierra Leone,rice,103.3,132.19                                         
+Sierra Leone,soybeans,0,0                                              
+Sierra Leone,nuts,5.57,9.860000000000001                               
+Sri Lanka,pork,0.05,0.18                                               
+Sri Lanka,poultry,4.96,5.33                                            
+Sri Lanka,beef,1.3800000000000001,42.58                                
+Sri Lanka,lamb_goat,0.09,3.15                                          
+Sri Lanka,fish,24.919999999999998,39.790000000000006                   
+Sri Lanka,eggs,4.57,4.2                                                
+Sri Lanka,dairy,34.98,49.83                                            
+Sri Lanka,wheat,37.01,7.06                                             
+Sri Lanka,rice,109.72,140.41                                           
+Sri Lanka,soybeans,0,0                                                 
+Sri Lanka,nuts,1.09,1.93                                               
+Indonesia,pork,2.98,10.55                                              
+Indonesia,poultry,7.5,8.06                                             
+Indonesia,beef,2.59,79.92                                              
+Indonesia,lamb_goat,0.46,16.110000000000003                            
+Indonesia,fish,25.650000000000002,40.949999999999996                   
+Indonesia,eggs,4.88,4.48                                               
+Indonesia,dairy,14.82,21.110000000000003                               
+Indonesia,wheat,25.45,4.85                                             
+Indonesia,rice,134.62,172.26999999999998                               
+Indonesia,soybeans,1.12,0.5                                            
+Indonesia,nuts,4.92,8.709999999999999                                  
+Liberia,pork,4.01,14.19                                                
+Liberia,poultry,8.91,9.57                                              
+Liberia,beef,0.7799999999999999,24.07                                  
+Liberia,lamb_goat,0.48000000000000004,16.810000000000002               
+Liberia,fish,4.13,6.59                                                 
+Liberia,eggs,2.05,1.8800000000000001                                   
+Liberia,dairy,3.04,4.33                                                
+Liberia,wheat,10.950000000000001,2.09                                  
+Liberia,rice,94.75,121.25                                              
+Liberia,soybeans,0.63,0.28                                             
+Liberia,nuts,1.31,2.32                                                 
+Bangladesh,pork,0,0                                                    
+Bangladesh,poultry,1.4,1.5                                             
+Bangladesh,beef,1.28,39.5                                              
+Bangladesh,lamb_goat,1.33,46.58                                        
+Bangladesh,fish,18.07,28.85                                            
+Bangladesh,eggs,2.08,1.91                                              
+Bangladesh,dairy,21.91,31.21                                           
+Bangladesh,wheat,17.47,3.3299999999999996                              
+Bangladesh,rice,171.73,219.76                                          
+Bangladesh,soybeans,0.61,0.27                                          
+Bangladesh,nuts,0.72,1.27
